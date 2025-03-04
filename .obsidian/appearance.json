@@ -1,0 +1,8 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Atom",
+  "monospaceFontFamily": "Ubuntu Mono",
+  "textFontFamily": "DejaVu Sans",
+  "interfaceFontFamily": "DejaVu Sans",
+  "baseFontSize": 23
+}
