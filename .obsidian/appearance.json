@@ -4,5 +4,6 @@
   "monospaceFontFamily": "Ubuntu Mono",
   "textFontFamily": "DejaVu Sans",
   "interfaceFontFamily": "DejaVu Sans",
-  "baseFontSize": 23
+  "baseFontSize": 16,
+  "nativeMenus": false
 }
