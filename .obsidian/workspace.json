@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Commands to create a rust application.md",
+                "file": "2nd-sem-Studies/RPA/RPA Assignment 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands to create a rust application"
+              "title": "RPA Assignment 1"
+            }
+          },
+          {
+            "id": "815cbc812166112f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +197,7 @@
   "lastOpenFiles": [
     "Rust/Data Types.md",
     "TMUX cheat sheet.md",
+    "Rust/Commands to create a rust application.md",
     "2nd-sem-Studies/RPA/RPA Assignment 1.md",
     "Research Methodologies/Research Approach.md",
     "Research Methodologies/Abstract.md",
@@ -195,7 +205,6 @@
     "College_Practicals/Networking Linux/Practical 3 - Bus Topology.md",
     "2025-03-04.md",
     "Rust/Guessing Game.md",
-    "Rust/Commands to create a rust application.md",
     "2nd-sem-Studies/RPA",
     "College_Practicals/Networking Linux",
     "College_Practicals",

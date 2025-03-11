@@ -1,9 +1,9 @@
 {
   "theme": "moonstone",
   "cssTheme": "Atom",
-  "monospaceFontFamily": "Ubuntu Mono",
-  "textFontFamily": "DejaVu Sans",
-  "interfaceFontFamily": "DejaVu Sans",
-  "baseFontSize": 16,
+  "monospaceFontFamily": "Roboto",
+  "textFontFamily": "Roboto",
+  "interfaceFontFamily": "Roboto",
+  "baseFontSize": 19,
   "nativeMenus": false
 }
