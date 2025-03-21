@@ -15,7 +15,7 @@
               "state": {
                 "file": "2nd-sem-Studies/AI_&_ML/AI ML Question Bank with answers.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "AI ML Question Bank with answers"
@@ -138,19 +138,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2nd-sem-Studies/RPA/RPA Assignment 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "d62749ea117e0e3e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline of RPA Assignment 1"
             }
           },
           {
@@ -162,9 +157,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "54012cadc781cdc2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,9 +191,9 @@
   },
   "active": "815cbc812166112f",
   "lastOpenFiles": [
+    "2nd-sem-Studies/RPA/RPA Assignment 1.md",
     "2nd-sem-Studies/AI_&_ML/AI ML Question Bank with answers.md",
     "College_Practicals/Networking Linux/Practical 12.md",
-    "2nd-sem-Studies/RPA/RPA Assignment 1.md",
     "Rust/Data Types.md",
     "TMUX cheat sheet.md",
     "Rust/Commands to create a rust application.md",

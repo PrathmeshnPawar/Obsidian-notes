@@ -4,7 +4,8 @@
     "includeName": true,
     "pageSize": "A4",
     "landscape": false,
-    "margin": "0",
-    "downscalePercent": 40
-  }
+    "margin": "1",
+    "downscalePercent": 49
+  },
+  "readableLineLength": false
 }

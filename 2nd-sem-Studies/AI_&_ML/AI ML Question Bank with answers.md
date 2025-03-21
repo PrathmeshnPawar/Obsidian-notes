@@ -9,10 +9,15 @@
     - Expanding the conjunction over the disjunction: (A ∧ B) ∨ (A ∧ ~C).
     - This is the required Disjunctive Normal Form.
 2. **Machine Learning vs. Traditional Programming**
-    
-    - **Traditional Programming:** The programmer explicitly codes rules and logic to solve a specific problem. It follows a clear set of instructions defined by humans. If the problem changes, new rules must be manually added.
-    - **Machine Learning:** Instead of defining rules manually, the system learns patterns from data. It generalizes from past examples to make predictions about new, unseen data.
-    - **Example:** A spam filter in traditional programming relies on predefined keywords (e.g., "free money," "win now"). In contrast, a machine learning-based spam filter learns patterns from past emails labeled as spam or non-spam, enabling it to detect new spam emails more effectively.
+
+| Aspect                    | Traditional Programming                                | Machine Learning                                      |
+|---------------------------|-------------------------------------------------------|------------------------------------------------------|
+| **Approach to Problem-Solving** | Programmer writes explicit rules and instructions.  | Model learns from data and makes predictions.       |
+| **Data Dependency**       | Relies less on data; output depends on predefined logic. | Heavily dependent on data for learning and accuracy. |
+| **Flexibility and Adaptability** | Limited flexibility; requires manual updates for changes. | Adapts to new scenarios if retrained with updated data. |
+| **Problem Complexity**    | Best for deterministic problems with clear rules.     | Ideal for complex problems like image recognition and NLP. |
+| **Development Process**   | Linear and predictable; focused on coding and debugging. | Iterative and experimental; involves training and evaluation. |
+| **Outcome Predictability** | Highly predictable if inputs and logic are known.    | Less interpretable, especially in deep learning models. |
 3. **Dimensionality Reduction**
     
     - Many datasets have a large number of features, some of which may be redundant or irrelevant. Dimensionality reduction techniques help reduce the number of input variables while preserving essential information.
