@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4055ffdcfc80f10c",
+        "id": "646332cd192c6db5",
         "type": "tabs",
         "children": [
           {
-            "id": "52fe276100ee50fe",
+            "id": "bf3871ee6f03071f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker Commands.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Docker Commands"
+              "title": "New tab"
             }
           }
         ]
@@ -188,12 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52fe276100ee50fe",
+  "active": "bf3871ee6f03071f",
   "lastOpenFiles": [
     "Docker Commands.md",
+    "Deploying a Full-Stack Application (Next.js & .NET) to Vercel and Ubuntu Server with Jenkins.md",
+    "TMUX cheat sheet.md",
     "2nd-sem-Studies/AI_&_ML/AI ML Question Bank with answers.md",
     "Dockerized .NET Web API and Next.js Setup.md",
-    "TMUX cheat sheet.md",
     "2nd-sem-Studies/RPA/RPA Assignment 1.md",
     "College_Practicals/Networking Linux/Practical 12.md",
     "Rust/Data Types.md",
