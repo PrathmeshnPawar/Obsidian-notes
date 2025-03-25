@@ -11,10 +11,14 @@
             "id": "bf3871ee6f03071f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Understanding Crontab in Linux.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Understanding Crontab in Linux"
             }
           }
         ]
@@ -186,6 +190,7 @@
   },
   "active": "bf3871ee6f03071f",
   "lastOpenFiles": [
+    "Understanding Crontab in Linux.md",
     "Docker Commands.md",
     "Deploying a Full-Stack Application (Next.js & .NET) to Vercel and Ubuntu Server with Jenkins.md",
     "TMUX cheat sheet.md",
